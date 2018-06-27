@@ -10,7 +10,7 @@ const Card = (props) => {
 };
 //find out why it doesn't look likebusson css wise
 const styles = {
-    contianerStyle: {
+    containerStyle: {
         borderWidth: 1,
         borderRadius: 2,
         borderColor: '#ddd',
